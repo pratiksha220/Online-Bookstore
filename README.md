@@ -1,19 +1,53 @@
-# Online Book Store - Full PHP & MYSQL Project
+# 📚 Online Bookstore Database Management System
 
-version: 1.0.0
+An Online Bookstore web application built as part of a DBMS (Database Management System) project.  
+It allows users to browse books, add them to a cart, place orders, and make secure payments, while administrators can manage inventory and monitor orders.
 
-### Admin User Name : eliasfsdev@gmail.com
+---
 
-### Admin Password : 12345
+## Features
 
-## Full Tutorial
+###  User Module
+- User Registration and Login
+- Browse and Search Books by Title, Author, Genre, or Category
+- Add to Cart and Checkout
+- Place Orders and View Order History
+- Submit Reviews and Ratings
 
-[On Youtube](https://youtube.com/playlist?list=PL2WFgdVk-usF5q_zBoHCFeGEj7NCQ_YLq)
+###  Cart & Order Management
+- Add/Remove Books from Cart
+- View Cart Summary and Total Price
+- Place Orders Securely
 
-## DEMO
+###  Admin Module
+- Admin Authentication
+- Add/Edit/Delete Books
+- View All Orders
+- Manage Inventory
 
-[DEMO](https://youtu.be/IMCHi-5Ig40)
+## Tech Stack
 
-## Authors
+- **Frontend:** HTML, CSS  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Tools:** phpMyAdmin, Git, GitHub  
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+---
+
+##  Database Design
+
+- **Entities:** Customer, Address, Book, Basket, Order, Payment, Review  
+- **Normalization:** Applied up to 3NF to reduce redundancy    
+
+---
+
+## Future Improvements
+
+- Integrate Payment Gateway APIs (e.g., Razorpay, PayPal)
+- Add Book Recommendations based on User History
+- Make UI Fully Responsive with Bootstrap
+- Implement Email Notifications for Orders
+- Add REST API support for mobile apps
+
+Contact
+- Email- 2207pratiksha@gmail.com
