@@ -7,23 +7,18 @@ It allows users to browse books, add them to a cart, place orders, and make secu
 
 ## Features
 
-###  User Module
-- User Registration and Login
-- Browse and Search Books by Title, Author, Genre, or Category
-- Add to Cart and Checkout
-- Place Orders and View Order History
-- Submit Reviews and Ratings
+## User Features
+- Browse available books
+- Search books by title, author, or category
+- View book details
 
-###  Cart & Order Management
-- Add/Remove Books from Cart
-- View Cart Summary and Total Price
-- Place Orders Securely
+## Admin Features
+- Admin authentication
+- Add new books with details (title, author, category, price)
+- Edit and delete existing books
+- Manage book categories and authors
+- View list of all books in the system
 
-###  Admin Module
-- Admin Authentication
-- Add/Edit/Delete Books
-- View All Orders
-- Manage Inventory
 
 ## Tech Stack
 
